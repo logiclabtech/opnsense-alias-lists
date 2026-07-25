@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-roblox.txt
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-tiktok.txt
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-tinder.txt
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-facebook.txt
+
